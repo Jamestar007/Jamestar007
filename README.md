@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Jamestar Kurbah
+- 👋 Hi, I’m Jamestar Kurbah, I am a postgraduate student in Computer Application
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Full Stack Web Development
-- 💞️ I’m looking to collaborate on any new Web Base Project
+- 🌱 I’m currently learning Full Stack Web Development at my own pace
+- 💞️ I’m looking to collaborate on new Web Base Project
 - 📫 How to reach me jamestarkurbah@gmail.com
 
 <!---
